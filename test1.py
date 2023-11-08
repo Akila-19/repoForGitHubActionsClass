@@ -1,1 +1,1 @@
-print("Hii Akila \n")
+print("Hii Akila")
